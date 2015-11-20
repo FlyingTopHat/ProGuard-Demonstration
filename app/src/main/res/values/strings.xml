@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProGuard Demonstration</string>
+
+    <string name="name_placement">%1$s %2$s</string>
+</resources>

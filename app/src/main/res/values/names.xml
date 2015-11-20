@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="first_names">
+        <item>Jane</item>
+        <item>Sancho</item>
+        <item>Lotario</item>
+        <item>Anselmo</item>
+        <item>Camila</item>
+        <item>Charles</item>
+    </string-array>
+
+    <string-array name="last_names">
+        <item>Austen</item>
+        <item>Panza</item>
+        <item>Saavedra</item>
+        <item>Dickens</item>
+    </string-array>
+</resources>
